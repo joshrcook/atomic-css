@@ -1,4 +1,4 @@
-atomic-css
+Atomic CSS
 ==========
 
 A template for getting started with Atomic CSS
